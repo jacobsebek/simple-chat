@@ -21,14 +21,14 @@ of independent projects (although they can obviously use each other's header fil
 
 Make sure to check out the READMEs in the individual modules.
 
-[A diagram showing the project structure](diagram.png "A diagram showing the project structure")
+![A diagram showing the project structure](diagram.png "A diagram showing the project structure")
 
 ## Implementing a front end
 Implementing a front-end is as easy as cloning this repo, compiling the `client` with `make` 
 (see the specifics in the `client/README`), creating a new folder in `frontends` and doing 
 whatever you want (you'd probably also want to compile the server for testing).
 
-[My wxWidgets front end](frontends/wxWidgets/screenshot_2.png "My wxWidgets front end")
+![My wxWidgets front end](frontends/wxWidgets/screenshot_2.png "My wxWidgets front end")
 
 ## Licensing
 For licensing info about the individual modules, check out their respective `LICENSE` files.  

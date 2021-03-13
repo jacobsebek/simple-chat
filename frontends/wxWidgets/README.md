@@ -4,7 +4,7 @@ I seriously used C++ so it was kinda educational as well.
 I am happy with how simple and straightforward the implementation
 turned out to be (it's only ~400 lines of code!).
 
-[An example screenshot](screenshot_2.png "An example screenshot")
+![An example screenshot](screenshot_2.png "An example screenshot")
 
 ## Compiling
 For compiling, you will obviously need the `client` shared library
